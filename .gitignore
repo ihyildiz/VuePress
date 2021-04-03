@@ -1,2 +1,4 @@
 .vuepress/
 .idea/
+node_modules/
+package*.json
